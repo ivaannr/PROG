@@ -1,2 +1,3 @@
 # PROG
-Repositorio para programación.
+## Segunda evaluación
+Subbranch dedicada al contenido de la segunda evaluación.
