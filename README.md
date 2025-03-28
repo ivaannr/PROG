@@ -1,8 +1,10 @@
 # PROG
-Repositorio para programación.
+_Repositorio para programación._
 
 
 # CONTENIDO
-El contenido está en las demás branches
+_El contenido está en las demás branches_
+```
 - Segundo Trimestre
 - Tercer Trimestre
+```
