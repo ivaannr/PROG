@@ -1,0 +1,14 @@
+C:\Users\programacion\Source\Repos\Presencial_Punto\Presencial_Punto\bin\Debug\net8.0\Presencial_Punto.exe
+C:\Users\programacion\Source\Repos\Presencial_Punto\Presencial_Punto\bin\Debug\net8.0\Presencial_Punto.deps.json
+C:\Users\programacion\Source\Repos\Presencial_Punto\Presencial_Punto\bin\Debug\net8.0\Presencial_Punto.runtimeconfig.json
+C:\Users\programacion\Source\Repos\Presencial_Punto\Presencial_Punto\bin\Debug\net8.0\Presencial_Punto.dll
+C:\Users\programacion\Source\Repos\Presencial_Punto\Presencial_Punto\bin\Debug\net8.0\Presencial_Punto.pdb
+C:\Users\programacion\Source\Repos\Presencial_Punto\Presencial_Punto\obj\Debug\net8.0\Presencial_Punto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programacion\Source\Repos\Presencial_Punto\Presencial_Punto\obj\Debug\net8.0\Presencial_Punto.AssemblyInfoInputs.cache
+C:\Users\programacion\Source\Repos\Presencial_Punto\Presencial_Punto\obj\Debug\net8.0\Presencial_Punto.AssemblyInfo.cs
+C:\Users\programacion\Source\Repos\Presencial_Punto\Presencial_Punto\obj\Debug\net8.0\Presencial_Punto.csproj.CoreCompileInputs.cache
+C:\Users\programacion\Source\Repos\Presencial_Punto\Presencial_Punto\obj\Debug\net8.0\Presencial_Punto.dll
+C:\Users\programacion\Source\Repos\Presencial_Punto\Presencial_Punto\obj\Debug\net8.0\refint\Presencial_Punto.dll
+C:\Users\programacion\Source\Repos\Presencial_Punto\Presencial_Punto\obj\Debug\net8.0\Presencial_Punto.pdb
+C:\Users\programacion\Source\Repos\Presencial_Punto\Presencial_Punto\obj\Debug\net8.0\Presencial_Punto.genruntimeconfig.cache
+C:\Users\programacion\Source\Repos\Presencial_Punto\Presencial_Punto\obj\Debug\net8.0\ref\Presencial_Punto.dll
