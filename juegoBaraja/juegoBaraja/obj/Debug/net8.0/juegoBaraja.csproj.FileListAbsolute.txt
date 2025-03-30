@@ -1,0 +1,14 @@
+C:\Users\programacion\Source\Repos\juegoBaraja\juegoBaraja\bin\Debug\net8.0\juegoBaraja.exe
+C:\Users\programacion\Source\Repos\juegoBaraja\juegoBaraja\bin\Debug\net8.0\juegoBaraja.deps.json
+C:\Users\programacion\Source\Repos\juegoBaraja\juegoBaraja\bin\Debug\net8.0\juegoBaraja.runtimeconfig.json
+C:\Users\programacion\Source\Repos\juegoBaraja\juegoBaraja\bin\Debug\net8.0\juegoBaraja.dll
+C:\Users\programacion\Source\Repos\juegoBaraja\juegoBaraja\bin\Debug\net8.0\juegoBaraja.pdb
+C:\Users\programacion\Source\Repos\juegoBaraja\juegoBaraja\obj\Debug\net8.0\juegoBaraja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programacion\Source\Repos\juegoBaraja\juegoBaraja\obj\Debug\net8.0\juegoBaraja.AssemblyInfoInputs.cache
+C:\Users\programacion\Source\Repos\juegoBaraja\juegoBaraja\obj\Debug\net8.0\juegoBaraja.AssemblyInfo.cs
+C:\Users\programacion\Source\Repos\juegoBaraja\juegoBaraja\obj\Debug\net8.0\juegoBaraja.csproj.CoreCompileInputs.cache
+C:\Users\programacion\Source\Repos\juegoBaraja\juegoBaraja\obj\Debug\net8.0\juegoBaraja.dll
+C:\Users\programacion\Source\Repos\juegoBaraja\juegoBaraja\obj\Debug\net8.0\refint\juegoBaraja.dll
+C:\Users\programacion\Source\Repos\juegoBaraja\juegoBaraja\obj\Debug\net8.0\juegoBaraja.pdb
+C:\Users\programacion\Source\Repos\juegoBaraja\juegoBaraja\obj\Debug\net8.0\juegoBaraja.genruntimeconfig.cache
+C:\Users\programacion\Source\Repos\juegoBaraja\juegoBaraja\obj\Debug\net8.0\ref\juegoBaraja.dll
