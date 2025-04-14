@@ -1,5 +1,8 @@
 
-### How to use
-- Simplemente sigue las instrucciones del menú del gestor.
-- _url:_ [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
-
+### Task Tracker CLI
+Falta corregir un par de comandos
+```
+add desc (id 1)
+remove 1
+update 1 desc (da error)
+```
