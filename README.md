@@ -40,7 +40,7 @@ public class Perro extends Animal {
 }
 
 // Main
-static void main(string[] args) {
+public static void main(String[] args) {
     Animal miPerro = new Perro();
     miPerro.hacerSonido(); // Salida: ¡Guau!
 }
@@ -63,7 +63,7 @@ class Persona : ISaludable {
 }
 
 // Main
-public static void main(String[] args) {
+static void main(string[] args) {
     ISaludable p = new Persona();
     p.Saludar(); // Salida: ¡Hola, mundo!
 }
