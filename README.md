@@ -62,6 +62,7 @@ class Persona : ISaludable {
     }
 }
 
+// Main
 public static void main(String[] args) {
     ISaludable p = new Persona();
     p.Saludar(); // Salida: ¡Hola, mundo!
