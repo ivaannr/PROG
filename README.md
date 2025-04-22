@@ -1,6 +1,6 @@
 # 🧠 PROG - Tercer Trimestre
 
-Subbranch que recopila ejercicios y proyectos desarrollados durante la tercera evaluación de la asignatura de Programación.
+***Subbranch que recopila ejercicios y proyectos desarrollados durante la tercera evaluación de la asignatura de Programación.***
 
 ---
 
