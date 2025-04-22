@@ -12,11 +12,11 @@ String getNombreMetodo()
 
 2- Implementa al menos tres métodos de pago:
 
-PagoConTarjeta
+- PagoConTarjeta
 
-PagoConPayPal
+- PagoConPayPal
 
-PagoConCripto
+- PagoConCripto
 
 3- Crea una clase Pedido que:
 
