@@ -1,6 +1,6 @@
 # 🧠 PROG - Tercer Trimestre
 
-Repositorio académico que recopila ejercicios y proyectos desarrollados durante la tercera evaluación de la asignatura de Programación. Incluye prácticas tanto en **Java** como en **C#**, centradas en el paradigma de programación orientada a objetos.
+Subbranch que recopila ejercicios y proyectos desarrollados durante la tercera evaluación de la asignatura de Programación.
 
 ---
 
