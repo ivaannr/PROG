@@ -1,0 +1,7 @@
+C:\Users\iván\source\repos\Domotización - Interfaces\Domotización - Interfaces\obj\Debug\Domotización - Interfaces.csproj.AssemblyReference.cache
+C:\Users\iván\source\repos\Domotización - Interfaces\Domotización - Interfaces\obj\Debug\Domotización - Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\iván\source\repos\Domotización - Interfaces\Domotización - Interfaces\bin\Debug\Domotización - Interfaces.exe.config
+C:\Users\iván\source\repos\Domotización - Interfaces\Domotización - Interfaces\bin\Debug\Domotización - Interfaces.exe
+C:\Users\iván\source\repos\Domotización - Interfaces\Domotización - Interfaces\bin\Debug\Domotización - Interfaces.pdb
+C:\Users\iván\source\repos\Domotización - Interfaces\Domotización - Interfaces\obj\Debug\Domotización - Interfaces.exe
+C:\Users\iván\source\repos\Domotización - Interfaces\Domotización - Interfaces\obj\Debug\Domotización - Interfaces.pdb
