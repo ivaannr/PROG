@@ -22,7 +22,7 @@ Repositorio académico que recopila ejercicios y proyectos desarrollados durante
 
 ---
 
-## ☕ Ejemplo clásico en Java  
+## ☕ Java  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ```java
@@ -46,7 +46,7 @@ miPerro.hacerSonido(); // Salida: ¡Guau!
 
 ---
 
-## 🔷 Ejemplo rápido en C#  
+## 🔷 C#  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ```csharp
@@ -66,10 +66,3 @@ p.Saludar(); // Salida: ¡Hola, mundo!
 ```
 
 ---
-
-## 👨‍💻 Frase motivadora del trimestre
-
-> “Primero no entendía nada...  
-> Luego entendía un poco...  
-> Ahora explico a los demás.  
-> — Yo, después de POO”
