@@ -1,4 +1,4 @@
-# Ejercicio 2: Sistema de Pago para una Tienda Online
+# Ejercicio: Sistema de Pago para una Tienda Online
 ## **Objetivo:**
 ***Crear un sistema de tienda que permita realizar pagos con diferentes métodos (tarjeta, PayPal, criptomonedas, etc.) usando interfaces.***
 
