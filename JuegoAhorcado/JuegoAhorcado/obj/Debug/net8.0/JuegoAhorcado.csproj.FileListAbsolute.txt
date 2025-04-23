@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\JuegoAhorcado\JuegoAhorcado\bin\Debug\net8.0\JuegoAhorcado.exe
+C:\Users\Usuario\source\repos\JuegoAhorcado\JuegoAhorcado\bin\Debug\net8.0\JuegoAhorcado.deps.json
+C:\Users\Usuario\source\repos\JuegoAhorcado\JuegoAhorcado\bin\Debug\net8.0\JuegoAhorcado.runtimeconfig.json
+C:\Users\Usuario\source\repos\JuegoAhorcado\JuegoAhorcado\bin\Debug\net8.0\JuegoAhorcado.dll
+C:\Users\Usuario\source\repos\JuegoAhorcado\JuegoAhorcado\bin\Debug\net8.0\JuegoAhorcado.pdb
+C:\Users\Usuario\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\net8.0\JuegoAhorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\net8.0\JuegoAhorcado.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\net8.0\JuegoAhorcado.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\net8.0\JuegoAhorcado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\net8.0\JuegoAhorcado.dll
+C:\Users\Usuario\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\net8.0\refint\JuegoAhorcado.dll
+C:\Users\Usuario\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\net8.0\JuegoAhorcado.pdb
+C:\Users\Usuario\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\net8.0\JuegoAhorcado.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\net8.0\ref\JuegoAhorcado.dll
