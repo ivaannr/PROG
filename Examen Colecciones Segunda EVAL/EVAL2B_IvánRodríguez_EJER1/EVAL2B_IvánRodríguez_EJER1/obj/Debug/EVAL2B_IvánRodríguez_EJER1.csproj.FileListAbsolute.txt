@@ -1,0 +1,7 @@
+C:\Users\iván\source\repos\EVAL2B_IvánRodríguez_EJER1\EVAL2B_IvánRodríguez_EJER1\obj\Debug\EVAL2B_IvánRodríguez_EJER1.csproj.AssemblyReference.cache
+C:\Users\iván\source\repos\EVAL2B_IvánRodríguez_EJER1\EVAL2B_IvánRodríguez_EJER1\obj\Debug\EVAL2B_IvánRodríguez_EJER1.csproj.CoreCompileInputs.cache
+C:\Users\iván\source\repos\EVAL2B_IvánRodríguez_EJER1\EVAL2B_IvánRodríguez_EJER1\bin\Debug\EVAL2B_IvánRodríguez_EJER1.exe.config
+C:\Users\iván\source\repos\EVAL2B_IvánRodríguez_EJER1\EVAL2B_IvánRodríguez_EJER1\bin\Debug\EVAL2B_IvánRodríguez_EJER1.exe
+C:\Users\iván\source\repos\EVAL2B_IvánRodríguez_EJER1\EVAL2B_IvánRodríguez_EJER1\bin\Debug\EVAL2B_IvánRodríguez_EJER1.pdb
+C:\Users\iván\source\repos\EVAL2B_IvánRodríguez_EJER1\EVAL2B_IvánRodríguez_EJER1\obj\Debug\EVAL2B_IvánRodríguez_EJER1.exe
+C:\Users\iván\source\repos\EVAL2B_IvánRodríguez_EJER1\EVAL2B_IvánRodríguez_EJER1\obj\Debug\EVAL2B_IvánRodríguez_EJER1.pdb
