@@ -1,0 +1,42 @@
+C:\Users\programacion\Source\Repos\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.exe
+C:\Users\programacion\Source\Repos\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.deps.json
+C:\Users\programacion\Source\Repos\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.runtimeconfig.json
+C:\Users\programacion\Source\Repos\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.dll
+C:\Users\programacion\Source\Repos\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.pdb
+C:\Users\programacion\Source\Repos\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programacion\Source\Repos\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.AssemblyInfoInputs.cache
+C:\Users\programacion\Source\Repos\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.AssemblyInfo.cs
+C:\Users\programacion\Source\Repos\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.csproj.CoreCompileInputs.cache
+C:\Users\programacion\Source\Repos\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.dll
+C:\Users\programacion\Source\Repos\Ruleta\Ruleta\obj\Debug\net8.0\refint\Ruleta.dll
+C:\Users\programacion\Source\Repos\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.pdb
+C:\Users\programacion\Source\Repos\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.genruntimeconfig.cache
+C:\Users\programacion\Source\Repos\Ruleta\Ruleta\obj\Debug\net8.0\ref\Ruleta.dll
+D:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.exe
+D:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.deps.json
+D:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.runtimeconfig.json
+D:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.dll
+D:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.pdb
+D:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.GeneratedMSBuildEditorConfig.editorconfig
+D:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.AssemblyInfoInputs.cache
+D:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.AssemblyInfo.cs
+D:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.csproj.CoreCompileInputs.cache
+D:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.dll
+D:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\refint\Ruleta.dll
+D:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.pdb
+D:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.genruntimeconfig.cache
+D:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\ref\Ruleta.dll
+E:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.exe
+E:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.deps.json
+E:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.runtimeconfig.json
+E:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.dll
+E:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.pdb
+E:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.GeneratedMSBuildEditorConfig.editorconfig
+E:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.AssemblyInfoInputs.cache
+E:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.AssemblyInfo.cs
+E:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.csproj.CoreCompileInputs.cache
+E:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.dll
+E:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\refint\Ruleta.dll
+E:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.pdb
+E:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.genruntimeconfig.cache
+E:\1ºGS\1er Trimestre\Programación\Programas\C#\Ruleta\Ruleta\obj\Debug\net8.0\ref\Ruleta.dll
