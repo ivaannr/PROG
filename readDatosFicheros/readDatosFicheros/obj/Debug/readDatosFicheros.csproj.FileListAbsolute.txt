@@ -1,0 +1,7 @@
+C:\Users\iván\source\repos\readDatosFicheros\readDatosFicheros\bin\Debug\readDatosFicheros.exe.config
+C:\Users\iván\source\repos\readDatosFicheros\readDatosFicheros\bin\Debug\readDatosFicheros.exe
+C:\Users\iván\source\repos\readDatosFicheros\readDatosFicheros\bin\Debug\readDatosFicheros.pdb
+C:\Users\iván\source\repos\readDatosFicheros\readDatosFicheros\obj\Debug\readDatosFicheros.csproj.AssemblyReference.cache
+C:\Users\iván\source\repos\readDatosFicheros\readDatosFicheros\obj\Debug\readDatosFicheros.csproj.CoreCompileInputs.cache
+C:\Users\iván\source\repos\readDatosFicheros\readDatosFicheros\obj\Debug\readDatosFicheros.exe
+C:\Users\iván\source\repos\readDatosFicheros\readDatosFicheros\obj\Debug\readDatosFicheros.pdb

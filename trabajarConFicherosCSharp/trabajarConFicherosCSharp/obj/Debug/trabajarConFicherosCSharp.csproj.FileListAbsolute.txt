@@ -1,0 +1,7 @@
+C:\Users\iván\source\repos\trabajarConFicherosCSharp\trabajarConFicherosCSharp\bin\Debug\trabajarConFicherosCSharp.exe.config
+C:\Users\iván\source\repos\trabajarConFicherosCSharp\trabajarConFicherosCSharp\bin\Debug\trabajarConFicherosCSharp.exe
+C:\Users\iván\source\repos\trabajarConFicherosCSharp\trabajarConFicherosCSharp\bin\Debug\trabajarConFicherosCSharp.pdb
+C:\Users\iván\source\repos\trabajarConFicherosCSharp\trabajarConFicherosCSharp\obj\Debug\trabajarConFicherosCSharp.csproj.AssemblyReference.cache
+C:\Users\iván\source\repos\trabajarConFicherosCSharp\trabajarConFicherosCSharp\obj\Debug\trabajarConFicherosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\iván\source\repos\trabajarConFicherosCSharp\trabajarConFicherosCSharp\obj\Debug\trabajarConFicherosCSharp.exe
+C:\Users\iván\source\repos\trabajarConFicherosCSharp\trabajarConFicherosCSharp\obj\Debug\trabajarConFicherosCSharp.pdb

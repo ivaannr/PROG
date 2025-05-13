@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace herenciaInstrumentos
+{
+    internal class Viento: Instrumento
+    {
+
+        public Viento(String nombre) : base(nombre) { this.Nombre = nombre; }
+
+        public override void tocar()
+        {
+            Console.WriteLine($"Tocando el instrumento de viento {this.Nombre}.");
+        }
+
+
+    }
+}

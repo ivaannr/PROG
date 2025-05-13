@@ -1,0 +1,7 @@
+C:\Users\iván\source\repos\herenciaEmpleados\herenciaEmpleados\bin\Debug\herenciaEmpleados.exe.config
+C:\Users\iván\source\repos\herenciaEmpleados\herenciaEmpleados\bin\Debug\herenciaEmpleados.exe
+C:\Users\iván\source\repos\herenciaEmpleados\herenciaEmpleados\bin\Debug\herenciaEmpleados.pdb
+C:\Users\iván\source\repos\herenciaEmpleados\herenciaEmpleados\obj\Debug\herenciaEmpleados.csproj.AssemblyReference.cache
+C:\Users\iván\source\repos\herenciaEmpleados\herenciaEmpleados\obj\Debug\herenciaEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\iván\source\repos\herenciaEmpleados\herenciaEmpleados\obj\Debug\herenciaEmpleados.exe
+C:\Users\iván\source\repos\herenciaEmpleados\herenciaEmpleados\obj\Debug\herenciaEmpleados.pdb

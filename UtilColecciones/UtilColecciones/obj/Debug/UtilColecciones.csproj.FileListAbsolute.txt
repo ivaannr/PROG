@@ -1,0 +1,7 @@
+C:\Users\iván\source\repos\UtilColecciones\UtilColecciones\bin\Debug\UtilColecciones.exe.config
+C:\Users\iván\source\repos\UtilColecciones\UtilColecciones\bin\Debug\UtilColecciones.exe
+C:\Users\iván\source\repos\UtilColecciones\UtilColecciones\bin\Debug\UtilColecciones.pdb
+C:\Users\iván\source\repos\UtilColecciones\UtilColecciones\obj\Debug\UtilColecciones.csproj.AssemblyReference.cache
+C:\Users\iván\source\repos\UtilColecciones\UtilColecciones\obj\Debug\UtilColecciones.csproj.CoreCompileInputs.cache
+C:\Users\iván\source\repos\UtilColecciones\UtilColecciones\obj\Debug\UtilColecciones.exe
+C:\Users\iván\source\repos\UtilColecciones\UtilColecciones\obj\Debug\UtilColecciones.pdb

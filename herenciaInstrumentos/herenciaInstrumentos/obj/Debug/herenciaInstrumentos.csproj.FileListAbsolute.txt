@@ -1,0 +1,7 @@
+C:\Users\iván\source\repos\herenciaInstrumentos\herenciaInstrumentos\bin\Debug\herenciaInstrumentos.exe.config
+C:\Users\iván\source\repos\herenciaInstrumentos\herenciaInstrumentos\bin\Debug\herenciaInstrumentos.exe
+C:\Users\iván\source\repos\herenciaInstrumentos\herenciaInstrumentos\bin\Debug\herenciaInstrumentos.pdb
+C:\Users\iván\source\repos\herenciaInstrumentos\herenciaInstrumentos\obj\Debug\herenciaInstrumentos.csproj.AssemblyReference.cache
+C:\Users\iván\source\repos\herenciaInstrumentos\herenciaInstrumentos\obj\Debug\herenciaInstrumentos.csproj.CoreCompileInputs.cache
+C:\Users\iván\source\repos\herenciaInstrumentos\herenciaInstrumentos\obj\Debug\herenciaInstrumentos.exe
+C:\Users\iván\source\repos\herenciaInstrumentos\herenciaInstrumentos\obj\Debug\herenciaInstrumentos.pdb
