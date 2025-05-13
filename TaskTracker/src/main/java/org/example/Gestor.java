@@ -10,9 +10,9 @@ import java.time.format.DateTimeFormatter;
 
 public class Gestor {
 
-    Map<Integer, Task> tasks;
+    private Map<Integer, Task> tasks;
     private int id = 1;
-    String idArchivo = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyyMMdd_HHmmss"));
+    private String idArchivo = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyyMMdd_HHmmss"));
 
     public Gestor() {
 
