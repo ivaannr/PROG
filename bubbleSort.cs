@@ -21,7 +21,6 @@ static void BubbleSort(int[] array)
             }
 
            
-            if (!intercambiado)
-                break;
+            if (!intercambiado) break;
         }
     }
