@@ -1,7 +1,7 @@
 # 📄 Ejercicio: Ordenar Números desde Ficheros sin Usar Colecciones (C#)
 
 ## 🎯 Objetivo
-Leer dos ficheros de texto que contienen números desordenados, combinarlos y crear un nuevo fichero con todos los números ordenados **sin utilizar colecciones** como `List`, `ArrayList`, `List<T>`, etc.
+Leer dos ficheros de texto que contienen números desordenados, combinarlos y crear un nuevo fichero con todos los números ordenados **sin utilizar colecciones** como `List`, `Arrays`,`ArrayList`, `List<T>`, etc.
 
 ---
 
