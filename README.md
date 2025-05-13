@@ -13,7 +13,8 @@
 
 ## 🧠 Temas abordados
 
-- Programación orientada a objetos (POO)  
+- Programación orientada a objetos (POO)
+- Listas y arrays 
 - Interfaces y clases abstractas  
 - Herencia y polimorfismo  
 - Encapsulamiento  
