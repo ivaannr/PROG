@@ -1,0 +1,7 @@
+C:\Users\iván\source\repos\ficherosDeCharacteres\ficherosDeCharacteres\bin\Debug\ficherosDeCharacteres.exe.config
+C:\Users\iván\source\repos\ficherosDeCharacteres\ficherosDeCharacteres\bin\Debug\ficherosDeCharacteres.exe
+C:\Users\iván\source\repos\ficherosDeCharacteres\ficherosDeCharacteres\bin\Debug\ficherosDeCharacteres.pdb
+C:\Users\iván\source\repos\ficherosDeCharacteres\ficherosDeCharacteres\obj\Debug\ficherosDeCharacteres.csproj.AssemblyReference.cache
+C:\Users\iván\source\repos\ficherosDeCharacteres\ficherosDeCharacteres\obj\Debug\ficherosDeCharacteres.csproj.CoreCompileInputs.cache
+C:\Users\iván\source\repos\ficherosDeCharacteres\ficherosDeCharacteres\obj\Debug\ficherosDeCharacteres.exe
+C:\Users\iván\source\repos\ficherosDeCharacteres\ficherosDeCharacteres\obj\Debug\ficherosDeCharacteres.pdb

@@ -1,0 +1,7 @@
+C:\Users\iván\source\repos\EjercicioChristian\EjercicioChristian\bin\Debug\EjercicioChristian.exe.config
+C:\Users\iván\source\repos\EjercicioChristian\EjercicioChristian\bin\Debug\EjercicioChristian.exe
+C:\Users\iván\source\repos\EjercicioChristian\EjercicioChristian\bin\Debug\EjercicioChristian.pdb
+C:\Users\iván\source\repos\EjercicioChristian\EjercicioChristian\obj\Debug\EjercicioChristian.csproj.AssemblyReference.cache
+C:\Users\iván\source\repos\EjercicioChristian\EjercicioChristian\obj\Debug\EjercicioChristian.csproj.CoreCompileInputs.cache
+C:\Users\iván\source\repos\EjercicioChristian\EjercicioChristian\obj\Debug\EjercicioChristian.exe
+C:\Users\iván\source\repos\EjercicioChristian\EjercicioChristian\obj\Debug\EjercicioChristian.pdb
