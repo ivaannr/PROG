@@ -11,10 +11,3 @@ Leer dos ficheros de texto que contienen números desordenados, combinarlos y cr
 - `fichero2.txt`: Igual que el anterior, contiene otra lista de números enteros.
 
 ---
-
-## 🛠️ Requisitos
-
-- Leer los dos ficheros y cargar sus números en **un array clásico (tipo primitivo)**.
-- Ordenar los números manualmente (por ejemplo, usando el algoritmo de ordenación por burbuja, inserción, etc.).
-- Escribir los números ordenados en un nuevo fichero llamado `fichero_ordenado.txt`.
-- **No usar colecciones como `List`, `ArrayList`, etc.**
