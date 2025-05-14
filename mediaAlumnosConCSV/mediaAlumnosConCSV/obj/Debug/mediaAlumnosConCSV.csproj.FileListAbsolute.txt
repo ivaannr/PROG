@@ -1,0 +1,7 @@
+C:\Users\iván\source\repos\mediaAlumnosConCSV\mediaAlumnosConCSV\bin\Debug\mediaAlumnosConCSV.exe.config
+C:\Users\iván\source\repos\mediaAlumnosConCSV\mediaAlumnosConCSV\bin\Debug\mediaAlumnosConCSV.exe
+C:\Users\iván\source\repos\mediaAlumnosConCSV\mediaAlumnosConCSV\bin\Debug\mediaAlumnosConCSV.pdb
+C:\Users\iván\source\repos\mediaAlumnosConCSV\mediaAlumnosConCSV\obj\Debug\mediaAlumnosConCSV.csproj.AssemblyReference.cache
+C:\Users\iván\source\repos\mediaAlumnosConCSV\mediaAlumnosConCSV\obj\Debug\mediaAlumnosConCSV.csproj.CoreCompileInputs.cache
+C:\Users\iván\source\repos\mediaAlumnosConCSV\mediaAlumnosConCSV\obj\Debug\mediaAlumnosConCSV.exe
+C:\Users\iván\source\repos\mediaAlumnosConCSV\mediaAlumnosConCSV\obj\Debug\mediaAlumnosConCSV.pdb
