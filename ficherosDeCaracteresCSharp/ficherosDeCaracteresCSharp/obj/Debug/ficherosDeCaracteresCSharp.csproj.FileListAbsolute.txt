@@ -1,0 +1,7 @@
+C:\Users\iván\source\repos\ficherosDeCaracteresCSharp\ficherosDeCaracteresCSharp\bin\Debug\ficherosDeCaracteresCSharp.exe.config
+C:\Users\iván\source\repos\ficherosDeCaracteresCSharp\ficherosDeCaracteresCSharp\bin\Debug\ficherosDeCaracteresCSharp.exe
+C:\Users\iván\source\repos\ficherosDeCaracteresCSharp\ficherosDeCaracteresCSharp\bin\Debug\ficherosDeCaracteresCSharp.pdb
+C:\Users\iván\source\repos\ficherosDeCaracteresCSharp\ficherosDeCaracteresCSharp\obj\Debug\ficherosDeCaracteresCSharp.csproj.AssemblyReference.cache
+C:\Users\iván\source\repos\ficherosDeCaracteresCSharp\ficherosDeCaracteresCSharp\obj\Debug\ficherosDeCaracteresCSharp.csproj.CoreCompileInputs.cache
+C:\Users\iván\source\repos\ficherosDeCaracteresCSharp\ficherosDeCaracteresCSharp\obj\Debug\ficherosDeCaracteresCSharp.exe
+C:\Users\iván\source\repos\ficherosDeCaracteresCSharp\ficherosDeCaracteresCSharp\obj\Debug\ficherosDeCaracteresCSharp.pdb
