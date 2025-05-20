@@ -1,0 +1,7 @@
+C:\Users\iván\source\repos\alumnoDeCsvACsvC#\alumnoDeCsvACsvC#\bin\Debug\alumnoDeCsvACsvC#.exe.config
+C:\Users\iván\source\repos\alumnoDeCsvACsvC#\alumnoDeCsvACsvC#\bin\Debug\alumnoDeCsvACsvC#.exe
+C:\Users\iván\source\repos\alumnoDeCsvACsvC#\alumnoDeCsvACsvC#\bin\Debug\alumnoDeCsvACsvC#.pdb
+C:\Users\iván\source\repos\alumnoDeCsvACsvC#\alumnoDeCsvACsvC#\obj\Debug\alumnoDeCsvACsvC#.csproj.AssemblyReference.cache
+C:\Users\iván\source\repos\alumnoDeCsvACsvC#\alumnoDeCsvACsvC#\obj\Debug\alumnoDeCsvACsvC#.csproj.CoreCompileInputs.cache
+C:\Users\iván\source\repos\alumnoDeCsvACsvC#\alumnoDeCsvACsvC#\obj\Debug\alumnoDeCsvACsvC#.exe
+C:\Users\iván\source\repos\alumnoDeCsvACsvC#\alumnoDeCsvACsvC#\obj\Debug\alumnoDeCsvACsvC#.pdb
