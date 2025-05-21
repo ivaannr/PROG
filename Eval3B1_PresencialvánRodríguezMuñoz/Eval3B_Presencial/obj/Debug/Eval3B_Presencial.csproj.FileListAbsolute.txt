@@ -1,0 +1,14 @@
+C:\Users\iván\Desktop\Eval3B_Presencial\Eval3B_Presencial\obj\Debug\Eval3B_Presencial.csproj.AssemblyReference.cache
+C:\Users\iván\Desktop\Eval3B_Presencial\Eval3B_Presencial\obj\Debug\Eval3B_Presencial.csproj.CoreCompileInputs.cache
+C:\Users\iván\Desktop\Eval3B_Presencial\Eval3B_Presencial\bin\Debug\Eval3B_Presencial.exe.config
+C:\Users\iván\Desktop\Eval3B_Presencial\Eval3B_Presencial\bin\Debug\Eval3B_Presencial.exe
+C:\Users\iván\Desktop\Eval3B_Presencial\Eval3B_Presencial\bin\Debug\Eval3B_Presencial.pdb
+C:\Users\iván\Desktop\Eval3B_Presencial\Eval3B_Presencial\obj\Debug\Eval3B_Presencial.exe
+C:\Users\iván\Desktop\Eval3B_Presencial\Eval3B_Presencial\obj\Debug\Eval3B_Presencial.pdb
+C:\Users\iván\Desktop\Eval3B1_PresencialvánRodríguezMuñoz\Eval3B_Presencial\bin\Debug\Eval3B_Presencial.exe.config
+C:\Users\iván\Desktop\Eval3B1_PresencialvánRodríguezMuñoz\Eval3B_Presencial\bin\Debug\Eval3B_Presencial.exe
+C:\Users\iván\Desktop\Eval3B1_PresencialvánRodríguezMuñoz\Eval3B_Presencial\bin\Debug\Eval3B_Presencial.pdb
+C:\Users\iván\Desktop\Eval3B1_PresencialvánRodríguezMuñoz\Eval3B_Presencial\obj\Debug\Eval3B_Presencial.csproj.AssemblyReference.cache
+C:\Users\iván\Desktop\Eval3B1_PresencialvánRodríguezMuñoz\Eval3B_Presencial\obj\Debug\Eval3B_Presencial.csproj.CoreCompileInputs.cache
+C:\Users\iván\Desktop\Eval3B1_PresencialvánRodríguezMuñoz\Eval3B_Presencial\obj\Debug\Eval3B_Presencial.exe
+C:\Users\iván\Desktop\Eval3B1_PresencialvánRodríguezMuñoz\Eval3B_Presencial\obj\Debug\Eval3B_Presencial.pdb
