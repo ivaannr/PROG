@@ -13,24 +13,14 @@ namespace alumnoDeCsvACsvC_
 
         private String linea = "";
 
-        public void escribirFichero(String f) {
+        public void escribirFichero(String f, String datos) {
 
 
-            using (StreamWriter sw = new StreamWriter(f, false, Encoding.UTF8))
+            using (StreamWriter sw = new StreamWriter(f, true, Encoding.UTF8))
             {
-                while (true)
-                {
-                    Console.WriteLine("Escribe una línea (fin para terminar): ");
-                    linea = Console.ReadLine();
-
-                    if (linea.Equals("fin"))
-                    {
-                        Console.Clear();
-                        break;
-                    }
+                    linea = datos;
 
                     sw.WriteLine(linea);
-                }
 
             }
 

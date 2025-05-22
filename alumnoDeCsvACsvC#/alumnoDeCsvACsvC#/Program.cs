@@ -22,10 +22,15 @@ namespace alumnoDeCsvACsvC_
 
             alumnos = gestor.leerFichero(path1);
 
+            
+            Console.WriteLine("\n---------------------------\n");
+            
             foreach (Alumno a in alumnos)
-                Console.WriteLine(a.ToString());
+                Console.WriteLine(a.toCSV());
 
 
+            foreach (Alumno a in alumnos)
+                gestor.escribirFichero(path2, a.toCSV());
 
 
 

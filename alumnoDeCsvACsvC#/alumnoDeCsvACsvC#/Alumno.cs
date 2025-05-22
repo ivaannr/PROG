@@ -25,7 +25,6 @@ namespace alumnoDeCsvACsvC_
 
        
 
-
         public double calcMedia()
         {           
             double suma = 0;
@@ -40,12 +39,20 @@ namespace alumnoDeCsvACsvC_
             return string.Join(", ", notas);
         }
 
+        public String notasToCSV() {
+            return string.Join(";", notas.Where(n => n != 0)).Replace(",",".");
+        }
 
         public override string ToString()
         {
             return $"El alumno {this.nombre} con notas {getNotas()} tiene una media de {calcMedia()}.";
         }
 
+        public String toCSV() {
+
+            return $"{nombre};{notasToCSV()}";
+        
+        }
 
     }
 }
